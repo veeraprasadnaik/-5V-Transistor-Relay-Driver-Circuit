@@ -1,0 +1,33 @@
+#5V Transistor Relay Driver Circuit
+
+
+
+#Symbols:
+
+Q1 – NPN Transistor
+
+R – Resistor
+
+D1 – Diode
+
+LED – Indicator
+
+RLY – Relay
+
+
+
+#Specifications:
+
+Supply: 5V
+
+Transistor: 2N3904
+
+Relay: 5V (SRD-05VDC-SL-C)
+
+Diode: 1N4007 (Flyback Protection)
+
+
+
+#Importance:
+
+Used to control high-power loads using a low-power signal in electronic and automation circuits.
